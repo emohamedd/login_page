@@ -1,5 +1,7 @@
 ## Login Page with HTML and CSS
 This project is a  login page with HTML and CSS. It allows users to enter their username and password, and includes basic validation to ensure that both fields are filled out.
+![Screenshot from 2023-02-19 13-51-14](https://user-images.githubusercontent.com/102475281/219949393-720951e2-15c3-4db6-8e10-870e72973dc2.png)
+
 
 ## Getting Started
 To run this project, simply open the index.html file in your web browser.
